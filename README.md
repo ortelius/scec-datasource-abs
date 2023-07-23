@@ -1,6 +1,6 @@
-# Go-Abs
+# scec-datasource-abs
 
-Go-Abs is a Golang Database Abstraction layer that provides plug and play support of any new database implementation.
+scec-datasource-abs is a Golang Database Abstraction layer that provides plug and play support of any new database implementation.
 Here is code for single implementation(NFT Storage):
 https://github.com/codeWithUtkarsh/go-abs
 
