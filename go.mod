@@ -10,5 +10,5 @@ require (
 
 require (
 	github.com/go-swagno/swagno-files v0.1.3 // indirect
-	golang.org/x/net v0.5.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 )
